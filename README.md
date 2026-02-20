@@ -2,7 +2,7 @@
 
 **`Dev. Júnior`**
 
-Me chamo Daniel Aguiar, tenho 19 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na FAETEC, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UFRJ. Sempre tive afinidade pela tecnologia e busco sempre aprimorar meus conhecimentos. [Linkedin](www.linkedin.com/in/danielsaguiar) / [Instagram](https://www.instagram.com/oaguiarr/).
+Me chamo Daniel Aguiar, tenho 19 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na FAETEC, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UFRJ. Sempre tive afinidade pela tecnologia e busco aprimorar meus conhecimentos. [Linkedin](www.linkedin.com/in/danielsaguiar) / [Instagram](https://www.instagram.com/oaguiarr/).
 
 <p align="left">
     <a href="https://github.com/Qiramoitu?tab=repositories&sort=stargazers">
