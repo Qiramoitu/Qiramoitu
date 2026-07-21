@@ -1,4 +1,4 @@
-#  Olá, eu sou o Daniel Aguiar!
+# Olá, eu sou o Daniel Aguiar! 👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Dev.+J%C3%BAnior;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+-+UFRJ;Apaixonado+por+Tecnologia" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Me chamo **Daniel Aguiar**, tenho 20 anos e sou natural do **Rio de Janeiro**. 
 
@@ -16,7 +16,7 @@ Me chamo **Daniel Aguiar**, tenho 20 anos e sou natural do **Rio de Janeiro**.
 
 ---
 
-## 🛠️ Tecnologias que uso
+## Tecnologias que uso
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
@@ -30,7 +30,7 @@ Me chamo **Daniel Aguiar**, tenho 20 anos e sou natural do **Rio de Janeiro**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qiramoitu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -42,7 +42,7 @@ Me chamo **Daniel Aguiar**, tenho 20 anos e sou natural do **Rio de Janeiro**.
 
 ---
 
-## 📱 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danielsaguiar" target="_blank">
