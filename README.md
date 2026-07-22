@@ -1,7 +1,7 @@
 # Olá, eu sou o Daniel Aguiar! 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Dev.+J%C3%BAnior;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+-+UFRJ;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+-+UFRJ;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 ---
